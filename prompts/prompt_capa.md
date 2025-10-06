@@ -1,0 +1,3 @@
+# Criação da imagem de capa
+
+A woman in her late 20s, brunette, with her hair tied up with some strands falling on the side of her face, smiling at the camera, wearing headphones, sitting in front of a table and this table has a laptop and a microphone, holding a mug that on this mug has the words “Deuses da Nuvem” Câmera setting f/8, 1/100s, ISSO 100, complex lightning, blacklightning, dynamic cinematic lighting, global ilummination, ultra-high resolution, realist filter of real colors, photo processing in 16k, cinematic, photorealistic, hyperealistic, hyper realistic, cinematic light, ultra realistic photography, ultra detailed –ar 1:1 –v 5.2
