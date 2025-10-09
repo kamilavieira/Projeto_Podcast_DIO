@@ -16,7 +16,7 @@
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTA:** Este repositório foi desenvolvido durante o Bootcamp de IA Generativa da DIO
+ > ℹ️ **NOTA:** Este repositório foi desenvolvido durante o Bootcamp de IA Generativa da DIO em parceria com a Universia.
 
 O objetivo deste projeto é gerar um podcast utilizando ferramentas de IA através de prompts mais elaborados (engenharia de prompt).
 
